@@ -1,6 +1,6 @@
 var myChart = echarts.init(document.getElementById('map-wrap'));
 var name_title = "Regional distribution map of 2018 college entrance examination population in China"
-var subname = 'The data comes from baidu'
+var subname = 'The data comes from baidu \n \n Units:(ten thousand people)'
 var nameColor = " rgb(55, 75, 113)"
 var name_fontFamily = '等线'
 var subname_fontSize = 15
