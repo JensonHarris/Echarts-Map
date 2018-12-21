@@ -1,4 +1,4 @@
-# Echarts-Chinamap
+# Echarts-Map
 
 #### recommend
 Use the Echarts plug-in to generate regional charts
